@@ -31,7 +31,7 @@ python inference.py
 ```
 The segment mask (same name) is stored in the "dataset/segmentation" folder.
 
-Download sample test data[[data1]](https://drive.google.com/file/d/1xQNQlHvg3HNWhgA_fpORc8L7-7h9jWst/view?usp=sharing)
+Download sample test data[[link]](https://drive.google.com/file/d/1xQNQlHvg3HNWhgA_fpORc8L7-7h9jWst/view?usp=sharing)
 
 ------
 ## Virtual multi-view projection
