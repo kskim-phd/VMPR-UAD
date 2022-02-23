@@ -31,8 +31,6 @@ The segment mask (same name) is stored in the "dataset/segmentation" folder.
 
 Sample test data downloadlink[data1](https://drive.google.com/file/d/1xQNQlHvg3HNWhgA_fpORc8L7-7h9jWst/view?usp=sharing)[data2](https://drive.google.com/file/d/1WOD0h4VwUlagXkWr6DOMHJMH9V7Eh9CI/view?usp=sharing)
 
-Sample test data2 downloadlink
-
 ------
 ## Virtual multi-view projection
 
