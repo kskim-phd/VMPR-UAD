@@ -10,9 +10,10 @@ Detailed instructions for testing the image are as follows.
 
 # Implementation
 
-A PyTorch implementation of VMPR-UAD based on original Patchcore code.
+A PyTorch implementation of VMPR-UAD based on original Patchcore and Automated lung segmentation code.
 
 Patchcore[https://github.com/hcw-00/PatchCore_anomaly_detection] (Thanks for Karsten Roth, Latha Pemula, Joaquin Zepeda, Bernhard Schölkopf, Thomas Brox, Peter Gehler.)
+Automated lung segmentation in CT under presence of severe pathologies[https://github.com/JoHof/lungmask] (Thanks for Hofmanninger, J., Prayer, F., Pan, J. et al.)
 
 ------
 ## Environments
