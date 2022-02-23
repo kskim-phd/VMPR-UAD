@@ -71,7 +71,7 @@ python generate_3d_map.py
 
 If you run four things sequentially, you will see that a "result_map" folder is created, storing the 3D anomaly map.
 
-sample 3D anomaly map [video](https://youtu.be/oerQdLnfPBQ)
+VMPR-UAD result 3D anomaly map sample. [video](https://youtu.be/oerQdLnfPBQ)
 
 ------
 
