@@ -12,9 +12,9 @@ Detailed instructions for testing the image are as follows.
 
 A PyTorch implementation of VMPR-UAD based on original Patchcore and Automated lung segmentation code.
 
-Patchcore[https://github.com/hcw-00/PatchCore_anomaly_detection] (Thanks for Karsten Roth, Latha Pemula, Joaquin Zepeda, Bernhard Schölkopf, Thomas Brox, Peter Gehler.)
+Patchcore [https://github.com/hcw-00/PatchCore_anomaly_detection] (Thanks for Karsten Roth, Latha Pemula, Joaquin Zepeda, Bernhard Schölkopf, Thomas Brox, Peter Gehler.)
 
-Automated lung segmentation in CT under presence of severe pathologies[https://github.com/JoHof/lungmask] (Thanks for Hofmanninger, J., Prayer, F., Pan, J. et al.)
+Automated lung segmentation in CT under presence of severe pathologies [https://github.com/JoHof/lungmask] (Thanks for Hofmanninger, J., Prayer, F., Pan, J. et al.)
 
 ------
 ## Environments
@@ -31,7 +31,7 @@ python inference.py
 ```
 The segment mask (same name) is stored in the "dataset/segmentation" folder.
 
-Download sample test data[[link](https://drive.google.com/file/d/1xQNQlHvg3HNWhgA_fpORc8L7-7h9jWst/view?usp=sharing)]
+Download sample test data [[link](https://drive.google.com/file/d/1xQNQlHvg3HNWhgA_fpORc8L7-7h9jWst/view?usp=sharing)]
 
 ------
 ## Virtual multi-view projection
@@ -53,9 +53,9 @@ Please run "Anomaly_detection/test_each_view.py"
 ```
 python test_each_view.py
 ```
-Download embeddings (embeddings.zip) in [here](https://drive.google.com/file/d/1PMrQbx62T95SFkh1cBjbo7zXfQ8rsXkC/view?usp=sharing)
+Download embeddings (embeddings.zip) in [here](https://drive.google.com/file/d/1PMrQbx62T95SFkh1cBjbo7zXfQ8rsXkC/view?usp=sharing) (As this work is under review so it is open to reviewers only)
 
-Our embedding files were extracted from undisclosed data. Therefore, the embeddedings file cannot be disclosed, but it is briefly disclosed. A password is required to decompress the file.
+For the purpose of review, only the embedding file learned with a small amount of data was disclosed.
 
 ------
 ## Generate 3D anomaly map
