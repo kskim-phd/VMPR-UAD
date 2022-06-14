@@ -1,4 +1,4 @@
-# 3D unsupervised anomaly detection through virtual multi-view projection and reconstruction: Clinical validation of low-dose chest computed tomography(VMPR-UAD)
+# 3D unsupervised anomaly detection through virtual multi-view projection and reconstruction: Clinical validation of low-dose chest computed tomography (VMPR-UAD)
 
 We release VMPR-UAD evaluation code.
 
