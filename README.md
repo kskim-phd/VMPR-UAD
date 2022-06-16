@@ -53,7 +53,7 @@ Please run "Anomaly_detection/test_each_view.py"
 ```
 python test_each_view.py
 ```
-Download embeddings (embeddings.zip) in [here](https://drive.google.com/file/d/1PMrQbx62T95SFkh1cBjbo7zXfQ8rsXkC/view?usp=sharing) (As this work is under review so it is open to reviewers only)
+Please email me (kskim.doc@gmail.com) to access the embedding file (As this work is under review so it is open to reviewers only).
 
 For the purpose of review, only the embedding file learned with a small amount of data was disclosed before publication. Nevertheless, both the superiority and reproducibility of the proposed technique were demonstrated by showing sufficiently high anomaly localization performance in the public sample image presented as an example.
 
