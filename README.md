@@ -53,7 +53,7 @@ Please run "Anomaly_detection/test_each_view.py"
 ```
 python test_each_view.py
 ```
-Please email me (kskim.doc@gmail.com) to access the embedding file. 
+Please email me (Dr. Kyungsu Kim: kskim.doc@gmail.com) to access the embedding file. 
 
 ------
 ## Generate 3D anomaly map
