@@ -53,9 +53,7 @@ Please run "Anomaly_detection/test_each_view.py"
 ```
 python test_each_view.py
 ```
-Please email me (kskim.doc@gmail.com) to access the embedding file (As this work is under review so it is open to reviewers only).
-
-For the purpose of review, only the embedding file learned with a small amount of data was disclosed before publication. Nevertheless, both the superiority and reproducibility of the proposed technique were demonstrated by showing sufficiently high anomaly localization performance in the public sample image presented as an example.
+Please email me (kskim.doc@gmail.com) to access the embedding file. 
 
 ------
 ## Generate 3D anomaly map
