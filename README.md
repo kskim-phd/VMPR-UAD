@@ -2,7 +2,7 @@
 
 We release VMPR-UAD evaluation code.
 
-Collaborators: Kyung-su Kim, Seongje Oh, Juhwan Lee 
+Collaborators: Kyungsu Kim, Seongje Oh, Juhwan Lee 
 
 Detailed instructions for testing the image are as follows.
 
